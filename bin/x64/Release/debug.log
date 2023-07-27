@@ -1,0 +1,12 @@
+[0727/162505.789:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: browser
+[0727/162505.830:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0727/162505.932:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: gpu-process
+[0727/162506.227:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: utility
+[0727/162553.984:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: browser
+[0727/162554.025:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0727/162554.126:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: gpu-process
+[0727/162554.475:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: utility
+[0727/162813.897:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: browser
+[0727/162813.924:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0727/162814.022:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: gpu-process
+[0727/162814.183:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: utility
